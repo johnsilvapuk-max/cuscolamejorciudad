@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f6c65b"/>
+      <stop offset="45%" stop-color="#c65345"/>
+      <stop offset="100%" stop-color="#3d1020"/>
+    </linearGradient>
+    <linearGradient id="mount" x1="0" x2="1">
+      <stop stop-color="#37121a"/>
+      <stop offset="1" stop-color="#6b1b1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="1200" fill="url(#sky)"/>
+  <circle cx="1380" cy="220" r="125" fill="#f3c13a" opacity=".85"/>
+  <path d="M0 560 C210 450 360 500 520 395 C690 285 860 420 1040 330 C1250 225 1430 370 1800 260 L1800 1200 L0 1200 Z" fill="url(#mount)" opacity=".88"/>
+  <path d="M0 770 C220 660 410 720 580 635 C740 555 870 660 1040 590 C1260 498 1460 620 1800 505 L1800 1200 L0 1200 Z" fill="#210b12" opacity=".88"/>
+  <g opacity=".35" fill="#fff3d0">
+    <rect x="180" y="810" width="90" height="70" rx="4"/>
+    <rect x="290" y="790" width="120" height="95" rx="4"/>
+    <rect x="440" y="835" width="70" height="50" rx="4"/>
+    <rect x="1020" y="780" width="150" height="90" rx="4"/>
+    <rect x="1190" y="820" width="80" height="60" rx="4"/>
+    <rect x="1320" y="760" width="120" height="110" rx="4"/>
+  </g>
+</svg>
