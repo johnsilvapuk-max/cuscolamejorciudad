@@ -89,7 +89,7 @@ img { max-width: 100%; display: block; }
   overflow: hidden;
   background:
     linear-gradient(120deg, rgba(73, 10, 15, .84), rgba(181, 18, 27, .30)),
-    url("assets/cusco-hero.svg") center/cover no-repeat;
+    url("assets/hero-cusco.jpg.png") center/cover no-repeat;
 }
 
 .hero-overlay {
