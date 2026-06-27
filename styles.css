@@ -47,10 +47,26 @@ img { max-width: 100%; display: block; }
 
 .brand {
   display: flex;
-  gap: 10px;
   align-items: center;
+  gap: 12px;
   font-weight: 800;
   letter-spacing: .2px;
+  color: white;
+  max-width: 360px;
+}
+
+.brand-logo {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  display: block;
+  flex: 0 0 auto;
+}
+
+.brand span {
+  display: inline-block;
+  line-height: 1.1;
+  white-space: normal;
 }
 
 .brand-mark {
