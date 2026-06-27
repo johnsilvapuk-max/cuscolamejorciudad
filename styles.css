@@ -209,7 +209,7 @@ h3 { font-size: 1.45rem; }
   color: rgba(255,255,255,.9);
   background:
     linear-gradient(145deg, rgba(123,13,19,.10), rgba(243,193,58,.08)),
-    url("assets/eulogio.png") center/cover no-repeat;
+    url("assets/eulogio.png.png") center/cover no-repeat;
 }
 .check-list {
   list-style: none;
